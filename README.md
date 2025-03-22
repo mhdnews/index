@@ -5,7 +5,7 @@ WSJ FT 彭博 付费墙 绕过 bypass paywall clean
 
 几十块就可以买到数百刀上千刀一年的期刊的账户
 
-原生登录查看期刊，手机也可登录
+原生登录查看期刊，IOS手机和网页版均可登录无限制浏览
 
 官网：[store.mhdnews.com](https://store.mhdnews.com/)
 
@@ -18,3 +18,5 @@ WSJ FT 彭博 付费墙 绕过 bypass paywall clean
 - 路透社(Reuters)
 
 ![bypass paywalls](https://raw.githubusercontent.com/mhdnews/index/refs/heads/main/files/1.png)
+
+关键词：github, 华尔街日报账号共享, 彭博账号共享, 经济学人账号共享, 华尔街日报破解, 免费看华尔街日报, bypass paywalls, bypass paywalls clean, 华尔街日报破解ios
