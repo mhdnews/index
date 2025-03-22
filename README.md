@@ -17,4 +17,4 @@ WSJ FT 彭博 付费墙 绕过 bypass paywall clean
 - 经济学人(Economist)
 - 路透社(Reuters)
 
-!(bypass paywalls)[https://raw.githubusercontent.com/mhdnews/index/refs/heads/main/files/1.png]
+![bypass paywalls](https://raw.githubusercontent.com/mhdnews/index/refs/heads/main/files/1.png)
