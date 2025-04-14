@@ -17,6 +17,7 @@ WSJ FT 彭博 付费墙 绕过 bypass paywall clean
 - 经济学人(Economist)
 - 路透社(Reuters)
 
+![bypass paywalls github](https://raw.githubusercontent.com/mhdnews/index/refs/heads/main/files/f8ab639caa595a9534abaae8c2cae6c55dc8b3c8b2639585291ca8970421ba0d.png)
 ![bypass paywalls](https://raw.githubusercontent.com/mhdnews/index/refs/heads/main/files/1.png)
 
 关键词：github, 华尔街日报账号共享, 彭博账号共享, 经济学人账号共享, 华尔街日报破解, 免费看华尔街日报, bypass paywalls, bypass paywalls clean, 华尔街日报破解ios
